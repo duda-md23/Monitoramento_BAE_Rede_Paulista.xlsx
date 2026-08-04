@@ -1,0 +1,2 @@
+# Monitoramento_BAE_Rede_Paulista.xlsx
+Planilha automatizada de monitoramento da Busca Ativa Escolar (BAE), cobrindo as 61 escolas da rede de Paulista/PE. Ela está limpa (zerada) e pronta para preenchimento oficial pela secretaria das unidades de ensino.
